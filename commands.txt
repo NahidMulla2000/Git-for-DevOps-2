@@ -1,0 +1,18 @@
+ python testing.py
+   4 history
+   5 git init
+   6 git status
+   7 git add testing.py
+   8 git status
+   9 git commit -m "added testing file"
+  10 git status
+  11 rm testing.py
+  12 git status
+  13 git restore testing.py
+  14 git status
+  15 clear
+  16 git remote add origin https://github.com/NahidMulla2000/Git-for-DevOps-2.git
+  17 git remote -v
+     git remote set-url origin https://<Personal-token>@github.com/NahidMulla2000/Git-for-DevOps-2.git
+  18 git push origin master
+  19 git status
